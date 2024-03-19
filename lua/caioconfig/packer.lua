@@ -1,4 +1,4 @@
--- This file can be loaded by calling `lua require('plugins')` from your init.vim
+--alias pull-notes='cd /mnt/c/Users/caio.marinho_visagio/Documents/vaults; git pull; cd -' This file can be loaded by calling `lua require('plugins')` from your init.vim
 
 -- Only required if you have packer configured as `opt`
 vim.cmd [[packadd packer.nvim]]
